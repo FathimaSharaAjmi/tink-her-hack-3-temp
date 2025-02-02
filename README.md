@@ -1,8 +1,8 @@
-# [Project Name] 🎯
+# [SAFE _PASS] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [SYNERGY]
 
 
 ### Team Members
@@ -63,16 +63,18 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+(https://github.com/user-attachments/assets/49e7bfbd-ae08-4f54-b89a-00c1715c8e5d)
+
+
+*Explains the purpose of password generator.Shows key functionalities like password length customization,character selection and generation. *
+
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Name 1]: [FATHIMA SHARA AJMI]
+- [Name 2]: [ROSHNAMOL SURESH]
+  
 
 ---
 Made with ❤️ at TinkerHub
