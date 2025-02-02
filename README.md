@@ -8,10 +8,10 @@
 ### Team Members
 - Member 1: [FATHIMA SHARA AJMI] - [COLLEGE OF ENGINEERING MUNNAR]
 - Member 2: [ROSHNAMOL SURESH] - [COLLEGE OF ENGINEERING MUNNAR]
-- Member 3: [Name] - [College]
+  
 
 ### Hosted Project Link
-[https://github.com/FathimaSharaAjmi/tink-her-hack-3-temp.git]
+https://tink-her-hack-3-temp-tau.vercel.app/
 
 ### Project Description
 [A simple and secure password generator that helps to create strong ,random passwords to enhance online security.]
