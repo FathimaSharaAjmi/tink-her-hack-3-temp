@@ -6,8 +6,8 @@
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [FATHIMA SHARA AJMI] - [COLLEGE OF ENGINEERING MUNNAR]
+- Member 2: [ROSHNAMOL SURESH] - [COLLEGE OF ENGINEERING MUNNAR]
 - Member 3: [Name] - [College]
 
 ### Hosted Project Link
