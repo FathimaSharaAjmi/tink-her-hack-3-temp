@@ -1,0 +1,64 @@
+*{
+    /* background-color: #007bff; */
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    background: linear-gradient(to right,rgb(141, 165, 207),rgb(112,112,125));
+ }
+ .container{
+     background: rgb(149, 142, 177);
+     padding: 20px;
+     border-radius: 10px;
+     box-shadow:0 0 15px rgba(90, 124, 138, 0.2);
+     text-align: center;
+     width: 350px;
+
+    }
+    h2 {
+        color: #9b1313;
+
+    }
+    input, button {
+        margin: 10px 0;
+        padding: 10px;
+        font-size: 16px;
+        width: 100%;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+
+    }
+button {
+    background-color: #770330;
+    color:rgb(161, 179, 219);
+    border:none;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #4773a5;
+
+}
+.copy-btn {
+    background-color: #1e0e64;
+}
+.copy-btn:hover {
+    background-color: #be3939;
+}
+input[type="text"] {
+    background-color: #69598a;
+    text-align: center;
+    border:none;
+  font-weight: bold;
+}
+/* #IncludeSpecial{
+
+} */
