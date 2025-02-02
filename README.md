@@ -72,8 +72,8 @@ For Software:
 
 
 ## Team Contributions
-- [Name 1]: [FATHIMA SHARA AJMI]
-- [Name 2]: [ROSHNAMOL SURESH]
+- [Name 1]: [FATHIMA SHARA AJMI:back end,documentation]
+- [Name 2]: [ROSHNAMOL SURESH:idea,front end]
   
 
 ---
